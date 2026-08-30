@@ -77,7 +77,3 @@ This project explores global happiness patterns using the World Happiness Rankin
 > *Transforming data into insights about global well-being.*
 
 ---
-
-## 📬 Contact
-
-For questions or collaboration, feel free to reach out to any team member via the IDs above.
