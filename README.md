@@ -6,11 +6,11 @@ This project explores global happiness patterns using the World Happiness Rankin
 
 ## 👥 Team Members
 
-- Roaa Haitham Hamada – 20251606023  
-- Jana Hamdy Mohammed – 20251506399  
-- Basmala Hussein Maher – 20251553089  
-- Jana Moustafa Mahmoud – 20251507228  
-- Habiba Ahmed Gomaa – 20251584726  
+- Roaa Haitham Hamada 
+- Jana Hamdy Mohammed
+- Basmala Hussein Maher
+- Jana Moustafa Mahmoud
+- Habiba Ahmed Gomaa
 
 ---
 
